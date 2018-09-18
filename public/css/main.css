@@ -1,0 +1,17 @@
+body {
+	padding: 30px 60px;
+}
+
+.forms {
+	display: flex;
+}
+
+.form-1 {
+	margin-right: 150px;
+}
+
+form input {
+	display: block;
+	margin-bottom: 10px;
+	padding: 10px;
+}
